@@ -27,6 +27,6 @@ Esta unidad me hizo ver la estadística no como una serie de fórmulas aisladas,
 ---
 <div align="left">
 
-[![⬅️ Volver a Contenidos de la Unidad 2](https://img.shields.io/badge/⬅️_Volver_a_Contenidos-blue?style=for-the-badge)](Contenidos.md)
+[![⬅️ Volver a Contenidos de la Unidad 2](https://img.shields.io/badge/⬅️_Volver_a_Contenidos-blue?style=for-the-badge)](./Contenidos.md)
 
 </div>
