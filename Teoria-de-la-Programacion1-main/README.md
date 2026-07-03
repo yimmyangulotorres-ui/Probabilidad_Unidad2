@@ -16,9 +16,9 @@
 ### *Asignatura:* Teoría de la Programación  
 
 📘 **Estudiante:** Angulo Torres Yimmy Onner  
-👩‍🏫 **Docente:** Dra. López Faicán Lissette Geoconda  
-🏫 **Ciclo:** Primero  
-📅 **Período Académico:** 2025 - Ciclo I  
+👩‍🏫 **Docente:** Ing. Narvaez Guillen Cristian Ramiro  
+🏫 **Ciclo:** Segundo Ciclo  
+📅 **Fecha: 03 / 07 / 2026 **  
 📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
 
 ---
@@ -62,20 +62,8 @@
 [![📗 Comclusiones](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
 
 </div>
----
-
-# <img src="https://img.icons8.com/fluency/48/books.png" width="30"/> Referencias Unidad 1 - Unidad 2
-[![📗 Referencias Bibliograficas](https://img.shields.io/badge/📗_Referencias_Bibliograficas-32CD32?style=for-the-badge)](./Bibliografia.md)
 
 ---
-
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Uso de la IA
-[![📗 Declaración del Uso de la IA Generativa](https://img.shields.io/badge/📗_Uso_de_la_IA-32CD32?style=for-the-badge)](./DeclaracionIA.md)
-
-
----
-> “El aprendizaje de algoritmos es el primer paso para aprender a pensar como un programador.”  
-
 <div align="left">
 
 [![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
