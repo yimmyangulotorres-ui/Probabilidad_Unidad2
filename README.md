@@ -71,5 +71,15 @@ Próximamente
 
 ---
 
+# <img src="https://img.icons8.com/fluency/48/statistics.png" width="30"/> Codigo del Examen Unidad2
+
+<div align="center">
+
+[![📗 Codigo del Examen Unidad2](https://img.shields.io/badge/📗Codigo_del_Examen_Unidad2-32CD32?style=for-the-badge)](/ExamenUnidad2/)
+
+</div>
+
+---
+
 > 💡 *La finalidad de este portafolio es la de poder concretar todos los temas de Probabilidad y Estadística tratados dentro de la Unidad 1 y la Unidad 2 de la asignatura, incluyendo la fundamentación teórica de cada práctica, los notebooks desarrollados y una sección de conclusiones.*
 
