@@ -1,10 +1,4 @@
 # 📔 Bitácora de Autoevaluación – Unidad 2 (Inferencia Estadística)
-
-**Estudiante:** Angulo Torres Yimmy Onner
-**Asignatura:** Teoría de la Distribución y Probabilidad
-**Unidad:** 2 – Inferencia Estadística
-**Fecha:** 03 / 07 / 2026
-
 ---
 
 ## 🎯 ¿Qué aprendí en esta unidad?
