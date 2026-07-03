@@ -65,7 +65,7 @@ Próximamente
 
 <div align="center">
 
-[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Video_de_la_Evaluación-32CD32?style=for-the-badge)](/Bitacora_Autoevaluacion.md)
+[![📹 Video de la Evaluación](https://img.shields.io/badge/📹_Video_de_la_Evaluación-red?style=for-the-badge)](https://drive.google.com/file/d/1-hBzLe3IDTkhOI8r4flOwJkORgLdZqbA/view?usp=sharing)
 
 </div>
 
