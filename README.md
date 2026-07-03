@@ -61,5 +61,15 @@ Próximamente
 
 ---
 
+# <img src="https://img.icons8.com/fluency/48/statistics.png" width="30"/> Video de la Evaluación
+
+<div align="center">
+
+[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Video_de_la_Evaluación-32CD32?style=for-the-badge)](/Bitacora_Autoevaluacion.md)
+
+</div>
+
+---
+
 > 💡 *La finalidad de este portafolio es la de poder concretar todos los temas de Probabilidad y Estadística tratados dentro de la Unidad 1 y la Unidad 2 de la asignatura, incluyendo la fundamentación teórica de cada práctica, los notebooks desarrollados y una sección de conclusiones.*
 
