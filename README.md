@@ -50,7 +50,7 @@
 
 <div align="center">
 
-[![📗 Visitar la Unidad 3] Proximamente
+Proximamente
 </div>
 
 ---
@@ -58,10 +58,11 @@
 
 <div align="center">
 
-[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
+[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Video_de_la_Evaluación-32CD32?style=for-the-badge)](./Conclusiones.md)
 
 </div>
 
+# <img src="https://img.icons8.com/fluency/48/brain.png" width="30"/> Unidad 3
 <div align="center">
 
 [![📗 Video de la Evaluación](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
