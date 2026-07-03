@@ -18,7 +18,7 @@
 📘 **Estudiante:** Angulo Torres Yimmy Onner  
 👩‍🏫 **Docente:** Ing. Narvaez Guillen Cristian Ramiro  
 🏫 **Ciclo:** Segundo Ciclo  
-📅 **Fecha: 03 / 07 / 2026 **  
+📅 **Fecha: 03 / 07 / 2026**  
 📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
 
 ---
