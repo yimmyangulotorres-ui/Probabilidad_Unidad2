@@ -32,11 +32,11 @@
 
 | 📓 **Actividad** | 📝 **Tema de la Práctica** | 🔗 **Enlace** |
 |:----------------|:---------------------------------------------------------------------------|:----------------------------------------------|
-| APE 007 | Distribuciones Continuas Notables: Modelado Gaussiano, Estandarización y Pruebas de Normalidad | [Abrir](./Actividades/APE_007_Normal%283%29.ipynb) |
-| APE 008 | Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica | [Abrir](./Actividades/APE_008_TLC%282%29.ipynb) |
-| APE 009 | Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student) | [Abrir](./Actividades/APE_009_Intervalos%281%29.ipynb) |
-| APE 10 | Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p | [Abrir](<./Actividades/APE10_Interferencia_EstadisticaPruebas_deHip%23U00f3tesis_Param%23U00e9tricas_%28Z_y_T%29_y%20An%23U00e1lisisdel_Valor-p%281%29.ipynb>) |
-| APE 11 | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey) | [Abrir](./Actividades/APE_11_Varianza%28ANOVA%29.ipynb) |
+| APE 006 | Distribuciones Continuas Notables: Modelado Gaussiano, Estandarización y Pruebas de Normalidad | [Abrir](./Actividades/APE_007_Normal%283%29.ipynb) |
+| APE 007 | Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica | [Abrir](./Actividades/APE_008_TLC%282%29.ipynb) |
+| APE 008 | Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student) | [Abrir](./Actividades/APE_009_Intervalos%281%29.ipynb) |
+| APE 009 | Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p | [Abrir](<./Actividades/APE10_Interferencia_EstadisticaPruebas_deHip%23U00f3tesis_Param%23U00e9tricas_%28Z_y_T%29_y%20An%23U00e1lisisdel_Valor-p%281%29.ipynb>) |
+| APE 010 | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey) | [Abrir](./Actividades/APE_11_Varianza%28ANOVA%29.ipynb) |
 
 ---
 
