@@ -13,13 +13,13 @@
 ---
 
 ## 📘 **PORTAFOLIO DIGITAL DE APRENDIZAJE**  
-### *Asignatura:* Teoría de la Programación  
+### *Asignatura:* Teoría de la Distribución y Probabilidad  
 
 📘 **Estudiante:** Angulo Torres Yimmy Onner  
-👩‍🏫 **Docente:** Ing. Narvaez Guillen Cristian Ramiro  
-🏫 **Ciclo:** Segundo Ciclo  
+👩‍🏫 **Docente:** Ing. Narváez Guillén Cristian Ramiro  
+🏫 **Ciclo:** Segundo Ciclo "A"  
 📅 **Fecha: 03 / 07 / 2026**  
-📍 **Ciudad Universitaria “Guillermo Falconí Espinosa”**  
+📍 **Ciudad Universitaria "Guillermo Falconí Espinosa"**  
 
 ---
 
@@ -33,9 +33,7 @@
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Unidad 2
-
-
+# <img src="https://img.icons8.com/fluency/48/statistics.png" width="30"/> Unidad 2
 
 <div align="center">
 
@@ -43,31 +41,25 @@
 
 </div>
 
-
 ---
 
 # <img src="https://img.icons8.com/fluency/48/brain.png" width="30"/> Unidad 3
 
 <div align="center">
 
-Proximamente
+Próximamente
 </div>
 
 ---
-# <img src="https://img.icons8.com/fluency/48/laptop.png" width="30"/> Conclusiones
+# <img src="https://img.icons8.com/fluency/48/statistics.png" width="30"/> Conclusiones
 
-<div align="center">
-
-[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Video_de_la_Evaluación-32CD32?style=for-the-badge)](./Conclusiones.md)
-
-</div>
-
-# <img src="https://img.icons8.com/fluency/48/brain.png" width="30"/> Unidad 3
 <div align="center">
 
 [![📗 Video de la Evaluación](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
 
 </div>
+
 ---
 
-> 💡 *La finalidad de este portafolio es la de poder concretar todos los temas tratados dentro de la unidad 1, unidad 2 y unidad3, ademas , permitiendo incluir una sección de conclusiones*
+> 💡 *La finalidad de este portafolio es la de poder concretar todos los temas de Probabilidad y Estadística tratados dentro de la Unidad 1 y la Unidad 2 de la asignatura, incluyendo la fundamentación teórica de cada práctica, los notebooks desarrollados y una sección de conclusiones.*
+
