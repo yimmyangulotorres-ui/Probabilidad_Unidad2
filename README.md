@@ -51,11 +51,11 @@ Próximamente
 </div>
 
 ---
-# <img src="https://img.icons8.com/fluency/48/statistics.png" width="30"/> Conclusiones
+# <img src="https://img.icons8.com/fluency/48/statistics.png" width="30"/> Bitacora de AutoEvaluación
 
 <div align="center">
 
-[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
+[![📗 Bitacora de AutoEvaluación](https://img.shields.io/badge/📗Bitacora_de_AutoEvaluación-32CD32?style=for-the-badge)](./Conclusiones.md)
 
 </div>
 
