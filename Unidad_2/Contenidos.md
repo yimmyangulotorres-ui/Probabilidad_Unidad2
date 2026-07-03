@@ -14,17 +14,6 @@
 - Comparación de medias entre dos o más grupos: pruebas T y ANOVA
 
 ---
-## 📘 **Temas de la Unidad**
-
-| 📂 **Tema** | 🧾 **Descripción del Contenido** |
-|:--------------------------------------------|:-------------------------------------------------------------|
-| [🔔 Distribuciones Continuas Notables](./Temas/Distribuciones_Continuas_Notables.md) | Distribución Normal, estandarización (Z), Gráfico Q-Q y Test de Shapiro-Wilk. |
-| [🎲 Distribuciones Muestrales y TLC (Simulación)](./Temas/Distribuciones_Muestrales_TLC_Simulacion.md) | Demostración empírica del TLC, remuestreo y error estándar. |
-| [📐 Estimación e Intervalos de Confianza](./Temas/Estimacion_Intervalos_Confianza.md) | Estimación puntual vs. por intervalos, IC con Z y T, nivel de confianza vs. precisión. |
-| [🧪 Pruebas de Hipótesis (Z y T) y Valor-p](./Temas/Pruebas_de_Hipotesis_Z_T.md) | H₀/H₁, valor-p, errores Tipo I y II, significancia estadística vs. práctica. |
-| [⚖️ Comparación de Medias y ANOVA](./Temas/Comparacion_de_Medias_ANOVA.md) | Pruebas T independientes/pareadas, homocedasticidad (Levene), ANOVA y pruebas post-hoc (Tukey). |
-
----
 
 ## 📓 **APES de la Unidad 2**
 
@@ -40,12 +29,6 @@
 
 ---
 
-## 🧩 **Otros apartados de la unidad**
-
-- [📂 Tareas Entregadas](./Tareas_Entregadas.md)
-- [📖 Contenidos de la Unidad](./Contenidos.md)
-
----
 ### 🧠 Concepto General
 La **Unidad 2** da el salto de la probabilidad descriptiva hacia la **inferencia estadística**: ya no basta con describir cómo se comporta una variable aleatoria, sino que se aprende a usar una muestra de datos para **estimar, decidir y comparar** con respecto a una población completa, cuantificando siempre el margen de incertidumbre asociado a cada conclusión.
 
