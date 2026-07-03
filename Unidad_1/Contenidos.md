@@ -19,17 +19,6 @@
 - Distribuciones muestrales, Teorema del Límite Central, t de Student y Chi-cuadrado
 
 ---
-## 📘 **Temas de la Unidad**
-
-| 📂 **Tema** | 🧾 **Descripción del Contenido** |
-|:--------------------------------------------|:-------------------------------------------------------------|
-| [🎲 Fundamentos de Probabilidad y Espacios Muestrales](../Temas/Fundamentos_de_Probabilidad.md) | Experimento aleatorio, espacio muestral, eventos, operaciones entre conjuntos y enfoques de probabilidad. |
-| [📊 Variables Aleatorias y Distribuciones de Probabilidad](../Temas/Variables_Aleatorias_y_Distribuciones.md) | Variables discretas y continuas, PMF, PDF, CDF, y una primera mirada a las distribuciones Binomial y Normal. |
-| [➗ Esperanza Matemática y Momentos](../Temas/Esperanza_Matematica_y_Momentos.md) | Esperanza, varianza, desviación estándar y estimadores muestrales insesgados. |
-| [🎯 Distribuciones Discretas Notables](../Temas/Distribuciones_Discretas_Notables.md) | Distribución Binomial, distribución de Poisson y su aproximación mutua. |
-| [🔔 Distribuciones Muestrales y TLC](../Temas/Distribuciones_Muestrales_y_TLC.md) | Teorema del Límite Central, error estándar, distribución t de Student y Chi-cuadrado. |
-
----
 
 ## 📓 **APES de la Unidad 1**
 
@@ -44,14 +33,6 @@
 | APE 04 – Grupo D | Distribuciones Discretas Notables: Modelado y Simulación de Procesos de Bernoulli y Eventos Raros | [Abrir](./APES/APE_04__GrupoD%282%29.ipynb) |
 | APE 05 – Grupo D | Distribuciones Continuas Notables: Modelado Gaussiano, Estandarización y Pruebas de Normalidad | [Abrir](./APES/APE_05__GrupoD%282%29.ipynb) |
 
----
-
-## 🧩 **Otros apartados de la unidad**
-
-- [📂 Tareas Entregadas](./Tareas_Entregadas.md)  
-- [📖 Contenidos de la Unidad](./Contenidos.md)  
-- [💬 Reflexión Personal](./Reflexion.md)  
-- [🧾 Evidencias](../Evidencias/)
 ---
 ### 🧠 Concepto General
 La **Unidad 1** se enfoca en los fundamentos de la **teoría de la probabilidad**, introduciendo al estudiante en el razonamiento bajo incertidumbre, el modelado de fenómenos aleatorios y las bases matemáticas que sostienen toda la estadística inferencial que se desarrolla en la Unidad 2.
