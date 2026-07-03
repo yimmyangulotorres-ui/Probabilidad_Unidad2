@@ -50,8 +50,7 @@
 
 <div align="center">
 
-[![📗 Visitar la Unidad 3](https://img.shields.io/badge/📗_Visitar_la_Unidad_2-32CD32?style=for-the-badge)](./Unidad_3/contenidos.md)
-
+[![📗 Visitar la Unidad 3] Proximamente
 </div>
 
 ---
@@ -59,15 +58,15 @@
 
 <div align="center">
 
-[![📗 Comclusiones](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
+[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
 
 </div>
 
+<div align="center">
+
+[![📗 Video de la Evaluación](https://img.shields.io/badge/📗Conclusiones-32CD32?style=for-the-badge)](./Conclusiones.md)
+
+</div>
 ---
-<div align="left">
-
-[![⬅️ Volver al Inicio](https://img.shields.io/badge/⬅️_Volver_al_Inicio-blue?style=for-the-badge)](../index.md)
-
-</div>
 
 > 💡 *La finalidad de este portafolio es la de poder concretar todos los temas tratados dentro de la unidad 1, unidad 2 y unidad3, ademas , permitiendo incluir una sección de conclusiones*
