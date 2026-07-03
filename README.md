@@ -55,7 +55,7 @@ Próximamente
 
 <div align="center">
 
-[![📗 Bitacora de AutoEvaluación](https://img.shields.io/badge/📗Bitacora_de_AutoEvaluación-32CD32?style=for-the-badge)](./Conclusiones.md)
+[![📗 Bitacora de AutoEvaluación](https://img.shields.io/badge/📗Bitacora_de_AutoEvaluación-32CD32?style=for-the-badge)](/Bitacora_Autoevaluacion.md)
 
 </div>
 
