@@ -39,10 +39,10 @@
 |:----------------|:---------------------------------------------------------------------------|:----------------------------------------------|
 | APE 00 | Fundamentos de Probabilidad y Espacios Muestrales | [Abrir](./APES/APE00.ipynb) |
 | APE 01 | Variables Aleatorias y Distribuciones de Probabilidad | [Abrir](./APES/APE01%282%29.ipynb) |
-| APE 03 – Grupal | Variables Aleatorias Discretas y Continuas | [Abrir](./APES/APE03_Grupal%281%29%281%29.ipynb) |
+| APE 02 – Grupal | Variables Aleatorias Discretas y Continuas | [Abrir](./APES/APE03_Grupal%281%29%281%29.ipynb) |
 | APE 03 – Grupo D | Variables Aleatorias Discretas y Continuas | [Abrir](./APES/APE03_GrupoD.ipynb) |
-| APE 05 – Grupo D | Distribuciones Discretas Notables: Modelado y Simulación de Procesos de Bernoulli y Eventos Raros | [Abrir](./APES/APE_05__GrupoD%282%29.ipynb) |
-| APE 06 – Grupo D | Distribuciones Continuas Notables: Modelado Gaussiano, Estandarización y Pruebas de Normalidad | [Abrir](./APES/APE_06__GrupoD%282%29.ipynb) |
+| APE 04 – Grupo D | Distribuciones Discretas Notables: Modelado y Simulación de Procesos de Bernoulli y Eventos Raros | [Abrir](./APES/APE_05__GrupoD%282%29.ipynb) |
+| APE 05 – Grupo D | Distribuciones Continuas Notables: Modelado Gaussiano, Estandarización y Pruebas de Normalidad | [Abrir](./APES/APE_06__GrupoD%282%29.ipynb) |
 
 ---
 
